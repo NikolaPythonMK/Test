@@ -4,3 +4,6 @@ blbl
 sgsfs
 testing
 jmkjkjnkj
+readme
+hello
+BUGFIX
